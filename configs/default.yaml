@@ -1,0 +1,18 @@
+AlertSpeaker: "http://localhost:7070/v1/event/alert"
+LogLevel: "debug"
+LogFile: "/data/log/ealert/eventwatch.log"
+RabbitMQHosts:
+RabbitMQTopicName:
+RabbitExchangeType:
+RabbitDurable: true
+RabbitRouteKey:
+RabbitUser:
+RabbitPassword:
+RabbitVhost:
+InfluxDBAddr:
+InfluxDBUsernName:
+InfluxDBPassword:
+InfluxDBName:
+APIServerHost:
+KubeConfigFile:
+HttpPort:
